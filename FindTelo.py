@@ -1,4 +1,7 @@
-
+#Last Updated: 22 Feb 2023
+#Author: Pedro Mendes de Souza; pedromsouza0@gmail.com
+#Usage: python FindTelo.py
+#Options: python FindTelo.py --help
 
 from Bio.Seq import Seq
 from Bio import SeqIO
